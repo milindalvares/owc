@@ -61,3 +61,7 @@ html, body {
     top: -3800%;
   }
 }
+
+img {
+  width: 100%;
+}
